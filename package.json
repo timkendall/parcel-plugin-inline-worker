@@ -1,0 +1,27 @@
+{
+  "name": "parcel-plugin-inline-worker",
+  "version": "0.1.0",
+  "description": "Adds support for inlining Web Worker modules in the Parcel bundler.",
+  "main": "lib/index.js",
+  "keywords": [
+    "parcel",
+    "parcel-bundler",
+    "plugin",
+    "worker",
+    "webworker",
+    "inline"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkendall/parcel-plugin-inline-worker.git"
+  },
+  "author": "Tim Kendall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timkendall/parcel-plugin-inline-worker/issues"
+  },
+  "homepage": "https://github.com/timkendall/parcel-plugin-inline-worker#readme"
+}
